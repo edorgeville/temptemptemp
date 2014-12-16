@@ -13,3 +13,4 @@ oejfaiejfiwejf
 ### 
 
 ![Chat GIF](/images/chat.gif)
+![Grumpy Guillaume](/images/grumpy.png)
